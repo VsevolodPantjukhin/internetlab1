@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/internetlab1/static/css/main.16e49c06.css",
+    "main.js": "/internetlab1/static/js/main.8ad2e3ee.js",
+    "static/js/453.68693753.chunk.js": "/internetlab1/static/js/453.68693753.chunk.js",
+    "static/media/back.png": "/internetlab1/static/media/back.66ed08daeba30fb27403.png",
+    "static/media/3rd.png": "/internetlab1/static/media/3rd.52a1e9a1a63aa0162346.png",
+    "static/media/truck.png": "/internetlab1/static/media/truck.fa1d2ba81e721464680b.png",
+    "static/media/money.svg": "/internetlab1/static/media/money.c1d792a5456b351c329b7e478dc4b7da.svg",
+    "static/media/delivery.svg": "/internetlab1/static/media/delivery.bffb01e843e9e3aaf9f492b58418c0c9.svg",
+    "static/media/waiting.svg": "/internetlab1/static/media/waiting.512b20b5d299b7933b7447391878e7ce.svg",
+    "static/media/secure.svg": "/internetlab1/static/media/secure.48cce6146d17431c1b70f661c66e575c.svg",
+    "index.html": "/internetlab1/index.html",
+    "main.16e49c06.css.map": "/internetlab1/static/css/main.16e49c06.css.map",
+    "main.8ad2e3ee.js.map": "/internetlab1/static/js/main.8ad2e3ee.js.map",
+    "453.68693753.chunk.js.map": "/internetlab1/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16e49c06.css",
+    "static/js/main.8ad2e3ee.js"
+  ]
+}
